@@ -24,3 +24,12 @@ drop duplicates
 fix types
 impute missing
 remove impossible values
+
+Fill NA model: 
+Summary table → "Which columns have missing values?"
+Missing bar plot → "How bad is it?"
+Missing heatmap → "Do missing values happen together?"
+Distribution plots → "How should I fill them?"
+
+## 8. Train Test Split & Column Transformation(normalization, encoding)
+- transform separately on training and testing data
